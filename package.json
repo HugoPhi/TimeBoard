@@ -1,0 +1,15 @@
+{
+  "name": "gtd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gtd.js",
+  "type": "module",
+  "scripts": {
+    "start": "node gtd.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "author": "",
+  "license": "ISC"
+}
